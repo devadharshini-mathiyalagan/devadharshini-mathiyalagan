@@ -4,8 +4,7 @@
 <p align="center"><em>I code, I dance, I make people smile — that’s my kind of multitasking! 💻💃😄</em></p>
 
 ---
-
-###WHO IS DD👀!
+### 👀 Who is DD!
 -3rd Year ECE @ Panimalar Engineering College 
 -Focused on **Java DSA + Full Stack (Spring Boot + React)** 
 -Exploring **AWS + Cloud Deployments** 
