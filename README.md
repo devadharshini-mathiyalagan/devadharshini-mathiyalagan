@@ -35,16 +35,6 @@
 
 ---
 
-### 💻 Internships
-- 🌐 **Web Development Intern** — *Pydun Technologies*  
-  🔹 Worked on responsive web apps.  
-- 📱 **Flutter App Intern** — *Abserverch (News App)*  
-  🔹 Built and contributed UI and feature modules for a news app.  
-- 🔧 **ServiceNow Training** — Selected among **top 150 in the department**  
-  🔹 Currently learning **Python, basic automation, and DSA fundamentals**.
-
----
-
 ### 📌 Current Projects
 - 📝 **Spring Blog** (Java + PostgreSQL + Docker) → CRUD + Auth + Deployment  
 - 💬 **Realtime Chat App** (Spring Boot + Redis + React) → Messaging + Scaling  
